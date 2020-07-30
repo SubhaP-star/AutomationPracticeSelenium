@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="testscripts.TestScrippts"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="testscripts.TestScrippts">
+        <methods>
+          <include name="contactStore"/>
+          <include name="createAnAccount"/>
+          <include name="Precondition"/>
+          <include name="checkLogoText"/>
+          <include name="addToCart"/>
+          <include name="postcondition"/>
+          <include name="alltestcases"/>
+        </methods>
+      </class> <!-- testscripts.TestScrippts -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

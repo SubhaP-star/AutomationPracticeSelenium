@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is Matched : My account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Page Title: YOUR LOGO a New Experience]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matched : My account - My Store]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="151036" started-at="2020-07-29T21:16:49Z" finished-at="2020-07-29T21:19:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="151036" started-at="2020-07-29T21:16:49Z" finished-at="2020-07-29T21:19:21Z">
+      <class name="testscripts.TestScrippts">
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="10557" started-at="2020-07-29T16:16:50Z" finished-at="2020-07-29T16:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="aboutCompanyDetails()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="aboutCompanyDetails" duration-ms="5884" started-at="2020-07-29T16:17:00Z" finished-at="2020-07-29T16:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutCompanyDetails -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="4247" started-at="2020-07-29T16:17:06Z" finished-at="2020-07-29T16:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="8036" started-at="2020-07-29T16:17:10Z" finished-at="2020-07-29T16:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="addToCart" duration-ms="11355" started-at="2020-07-29T16:17:18Z" finished-at="2020-07-29T16:17:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="4487" started-at="2020-07-29T16:17:30Z" finished-at="2020-07-29T16:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="8181" started-at="2020-07-29T16:17:34Z" finished-at="2020-07-29T16:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="alltestcases()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="alltestcases" duration-ms="9588" started-at="2020-07-29T16:17:42Z" finished-at="2020-07-29T16:17:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matched : My account - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- alltestcases -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="409" started-at="2020-07-29T16:17:52Z" finished-at="2020-07-29T16:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="9009" started-at="2020-07-29T16:17:52Z" finished-at="2020-07-29T16:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="checkLogoText()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="checkLogoText" duration-ms="302" started-at="2020-07-29T16:18:01Z" finished-at="2020-07-29T16:18:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Page Title: YOUR LOGO a New Experience]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkLogoText -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="524" started-at="2020-07-29T16:18:02Z" finished-at="2020-07-29T16:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="7347" started-at="2020-07-29T16:18:02Z" finished-at="2020-07-29T16:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="checkTheCount()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="checkTheCount" duration-ms="2212" started-at="2020-07-29T16:18:09Z" finished-at="2020-07-29T16:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheCount -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="1215" started-at="2020-07-29T16:18:12Z" finished-at="2020-07-29T16:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="7448" started-at="2020-07-29T16:18:13Z" finished-at="2020-07-29T16:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="createAnAccount()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="createAnAccount" duration-ms="5959" started-at="2020-07-29T16:18:20Z" finished-at="2020-07-29T16:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAccount -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="546" started-at="2020-07-29T16:18:26Z" finished-at="2020-07-29T16:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="7315" started-at="2020-07-29T16:18:27Z" finished-at="2020-07-29T16:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="specialCollections()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="specialCollections" duration-ms="20729" started-at="2020-07-29T16:18:34Z" finished-at="2020-07-29T16:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specialCollections -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="566" started-at="2020-07-29T16:18:55Z" finished-at="2020-07-29T16:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="Precondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="Precondition" is-config="true" duration-ms="7940" started-at="2020-07-29T16:18:55Z" finished-at="2020-07-29T16:19:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Precondition -->
+        <test-method status="PASS" signature="contactStore()[pri:1, instance:testscripts.TestScrippts@2f7c7260]" name="contactStore" duration-ms="12418" started-at="2020-07-29T16:19:03Z" finished-at="2020-07-29T16:19:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matched : My account - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactStore -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:testscripts.TestScrippts@2f7c7260]" name="postcondition" is-config="true" duration-ms="4704" started-at="2020-07-29T16:19:16Z" finished-at="2020-07-29T16:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- testscripts.TestScrippts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
